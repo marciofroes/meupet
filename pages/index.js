@@ -5,7 +5,7 @@ function Home(){
     <div>
         <h2>Home</h2>
             <Contador/>
-            <div>
+            <div id="google-ads">
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6586065875216810"
      crossorigin="anonymous"></script>
 </div>
